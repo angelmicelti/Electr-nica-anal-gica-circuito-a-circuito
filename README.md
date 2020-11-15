@@ -1,2 +1,2 @@
-# Electr-nica-anal-gica-circuito-a-circuito
+# Electrónica analógica circuito a circuito
 Repositorio con circuitos electrónicos elementales
